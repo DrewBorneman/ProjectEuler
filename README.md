@@ -1,2 +1,2 @@
 # ProjectEuler
-Project Euler files
+Solutions to some problems from https://projecteuler.net/
